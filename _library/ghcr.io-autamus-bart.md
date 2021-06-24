@@ -3,7 +3,7 @@ layout: container
 name:  "ghcr.io/autamus/bart"
 maintainer: "@vsoch"
 github: "https://github.com/singularityhub/singularity-hpc/blob/main/registry/ghcr.io/autamus/bart/container.yaml"
-updated_at: "2021-06-11 06:13:04.986986"
+updated_at: "2021-06-24 07:02:01.794859"
 container_url: "https://github.com/orgs/autamus/packages/container/package/bart"
 aliases:
  - "bart"
@@ -12,6 +12,7 @@ aliases:
 
 versions:
  - "0.6.00"
+ - "0.7.00"
  - "latest"
 description: "BART: Toolbox for Computational Magnetic Resonance Imaging"
 ---

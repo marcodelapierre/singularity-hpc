@@ -3,7 +3,7 @@ layout: container
 name:  "ghcr.io/autamus/clhep"
 maintainer: "@vsoch"
 github: "https://github.com/singularityhub/singularity-hpc/blob/main/registry/ghcr.io/autamus/clhep/container.yaml"
-updated_at: "2021-06-11 06:12:53.807489"
+updated_at: "2021-06-24 07:02:46.346078"
 container_url: "https://github.com/orgs/autamus/packages/container/package/clhep"
 aliases:
  - "Cast-config"

@@ -3,7 +3,7 @@ layout: container
 name:  "biocontainers/bwa"
 maintainer: "@vsoch"
 github: "https://github.com/singularityhub/singularity-hpc/blob/main/registry/biocontainers/bwa/container.yaml"
-updated_at: "2021-06-11 06:13:25.776102"
+updated_at: "2021-06-24 07:01:48.671497"
 container_url: "https://hub.docker.com/r/biocontainers/bwa"
 aliases:
  - "bwa"

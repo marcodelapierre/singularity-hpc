@@ -3,7 +3,7 @@ layout: container
 name:  "rabbitmq"
 maintainer: "@vsoch"
 github: "https://github.com/singularityhub/singularity-hpc/blob/main/registry/rabbitmq/container.yaml"
-updated_at: "2021-06-11 06:13:28.710991"
+updated_at: "2021-06-24 07:01:46.138798"
 container_url: "https://hub.docker.com/r/_/rabbitmq"
 aliases:
  - "rabbitmq-defaults"
@@ -25,7 +25,9 @@ aliases:
 versions:
  - "3.8.15-rc.2-alpine"
  - "3.8.16-alpine"
+ - "3.8.17-alpine"
  - "3.8.17-rc.1-alpine"
+ - "3.8.18-beta.1-alpine"
  - "latest"
 description: "RabbitMQ is an open source multi-protocol messaging broker."
 ---
