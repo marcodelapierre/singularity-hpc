@@ -3,16 +3,16 @@ layout: container
 name:  "quay.io/biocontainers/trinity"
 maintainer: "@vsoch"
 github: "https://github.com/singularityhub/singularity-hpc/blob/main/registry/quay.io/biocontainers/trinity/container.yaml"
-updated_at: "2021-06-24 07:02:47.896379"
+updated_at: "2021-07-09 05:17:09.340303"
 container_url: "https://quay.io/repository/biocontainers/trinity"
 aliases:
- - "trinity"
-
  - "Trinity"
 
+ - "trinity"
+
 versions:
- - "2.12.0"
  - "2.11.0"
+ - "2.12.0"
 description: "Trinity, developed at the Broad Institute and the Hebrew University of Jerusalem, represents a novel method for the efficient and robust de novo reconstruction of transcriptomes from RNA-seq data."
 ---
 
@@ -27,7 +27,7 @@ $ shpc install quay.io/biocontainers/trinity
 Or a specific version:
 
 ```bash
-$ shpc install quay.io/biocontainers/trinity:2.12.0
+$ shpc install quay.io/biocontainers/trinity:2.11.0
 ```
 
 And then you can tell lmod about your modules folder:
@@ -39,8 +39,8 @@ $ module use ./modules
 And load the module, and ask for help, or similar.
 
 ```bash
-$ module load quay.io/biocontainers/trinity/2.12.0
-$ module help quay.io/biocontainers/trinity/2.12.0
+$ module load quay.io/biocontainers/trinity/2.11.0
+$ module help quay.io/biocontainers/trinity/2.11.0
 ```
 
 You can use tab for auto-completion of module names or commands that are provided.
@@ -98,7 +98,7 @@ $ singularity inspect -d <container>
 ```
 
 
-#### trinity
+#### Trinity
        
 ```bash
 $ singularity exec <container> /usr/local/bin/Trinity
@@ -107,7 +107,7 @@ $ docker run --it --rm --entrypoint /usr/local/bin/Trinity   -v ${PWD} -w ${PWD}
 ```
 
 
-#### Trinity
+#### trinity
        
 ```bash
 $ singularity exec <container> /usr/local/bin/Trinity

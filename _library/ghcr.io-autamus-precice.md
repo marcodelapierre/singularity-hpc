@@ -3,11 +3,12 @@ layout: container
 name:  "ghcr.io/autamus/precice"
 maintainer: "@vsoch"
 github: "https://github.com/singularityhub/singularity-hpc/blob/main/registry/ghcr.io/autamus/precice/container.yaml"
-updated_at: "2021-06-24 07:02:27.951289"
+updated_at: "2021-07-09 05:17:43.060452"
 container_url: "https://github.com/orgs/autamus/packages/container/package/precice"
 
 versions:
  - "1.2.1"
+ - "2.2.1"
 description: "preCICE (Precise Code Interaction Coupling Environment) is a coupling library for partitioned multi-physics simulations."
 ---
 

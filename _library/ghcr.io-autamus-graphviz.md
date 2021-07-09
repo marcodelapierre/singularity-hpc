@@ -3,7 +3,7 @@ layout: container
 name:  "ghcr.io/autamus/graphviz"
 maintainer: "@vsoch"
 github: "https://github.com/singularityhub/singularity-hpc/blob/main/registry/ghcr.io/autamus/graphviz/container.yaml"
-updated_at: "2021-06-24 07:02:36.710890"
+updated_at: "2021-07-09 05:17:58.724116"
 container_url: "https://github.com/orgs/autamus/packages/container/package/graphviz"
 aliases:
  - "gc"
@@ -35,6 +35,7 @@ aliases:
 versions:
  - "2.47.1"
  - "2.47.2"
+ - "2.47.3"
  - "latest"
 description: "Graphviz is open source graph visualization software."
 ---
