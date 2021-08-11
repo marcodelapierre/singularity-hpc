@@ -3,7 +3,7 @@ layout: container
 name:  "ghcr.io/autamus/bolt"
 maintainer: "@vsoch"
 github: "https://github.com/singularityhub/singularity-hpc/blob/main/registry/ghcr.io/autamus/bolt/container.yaml"
-updated_at: "2021-08-11 01:40:19.490738"
+updated_at: "2021-08-11 14:11:02.737758"
 container_url: "https://github.com/orgs/autamus/packages/container/package/bolt"
 
 versions:
