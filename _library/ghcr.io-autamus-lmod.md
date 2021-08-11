@@ -3,7 +3,7 @@ layout: container
 name:  "ghcr.io/autamus/lmod"
 maintainer: "@vsoch"
 github: "https://github.com/singularityhub/singularity-hpc/blob/main/registry/ghcr.io/autamus/lmod/container.yaml"
-updated_at: "2021-07-09 05:17:26.219131"
+updated_at: "2021-08-11 01:40:42.138067"
 container_url: "https://github.com/orgs/autamus/packages/container/package/lmod"
 aliases:
  - "module"
@@ -11,6 +11,7 @@ aliases:
 versions:
  - "8.3"
  - "8.5.6"
+ - "8.5.9"
  - "latest"
 description: "The Persistence of Vision Ray Tracer, most commonly acronymed as POV-Ray, is a cross-platform ray-tracing program that generates images from a text-based scene description."
 ---

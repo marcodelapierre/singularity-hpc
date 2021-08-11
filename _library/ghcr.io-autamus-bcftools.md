@@ -3,13 +3,14 @@ layout: container
 name:  "ghcr.io/autamus/bcftools"
 maintainer: "@vsoch"
 github: "https://github.com/singularityhub/singularity-hpc/blob/main/registry/ghcr.io/autamus/bcftools/container.yaml"
-updated_at: "2021-07-09 05:17:50.967801"
+updated_at: "2021-08-11 01:40:43.772099"
 container_url: "https://github.com/orgs/autamus/packages/container/package/bcftools"
 aliases:
  - "bcftools"
 
 versions:
  - "1.12"
+ - "1.13"
  - "latest"
 description: "BCFtools is a set of utilities that manipulate variant calls in the Variant Call Format (VCF) and its binary counterpart BCF."
 ---

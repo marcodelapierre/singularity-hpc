@@ -3,13 +3,14 @@ layout: container
 name:  "ghcr.io/autamus/htslib"
 maintainer: "@vsoch"
 github: "https://github.com/singularityhub/singularity-hpc/blob/main/registry/ghcr.io/autamus/htslib/container.yaml"
-updated_at: "2021-07-09 05:17:34.588636"
+updated_at: "2021-08-11 01:40:23.723711"
 container_url: "https://github.com/orgs/autamus/packages/container/package/htslib"
 aliases:
  - "htsfile"
 
 versions:
  - "1.12"
+ - "1.13"
  - "latest"
 description: "A C library for reading/writing high-throughput sequencing data."
 ---

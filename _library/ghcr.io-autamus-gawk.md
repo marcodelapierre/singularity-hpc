@@ -3,7 +3,7 @@ layout: container
 name:  "ghcr.io/autamus/gawk"
 maintainer: "@vsoch"
 github: "https://github.com/singularityhub/singularity-hpc/blob/main/registry/ghcr.io/autamus/gawk/container.yaml"
-updated_at: "2021-07-09 05:17:50.698348"
+updated_at: "2021-08-11 01:40:41.119561"
 container_url: "https://github.com/orgs/autamus/packages/container/package/gawk"
 aliases:
  - "gawk"

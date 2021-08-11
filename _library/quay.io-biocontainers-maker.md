@@ -3,14 +3,14 @@ layout: container
 name:  "quay.io/biocontainers/maker"
 maintainer: "@vsoch"
 github: "https://github.com/singularityhub/singularity-hpc/blob/main/registry/quay.io/biocontainers/maker/container.yaml"
-updated_at: "2021-07-09 05:17:07.825413"
+updated_at: "2021-08-11 01:40:09.754798"
 container_url: "https://quay.io/repository/biocontainers/maker"
 aliases:
  - "maker"
 
 versions:
  - "2.31.11--pl526h61907ee_0"
- - "3.01.03--pl5262h8f1cd36_1"
+ - "3.01.03--pl526hb8757ab_0"
 description: "A portable and easily configurable genome annotation pipeline"
 ---
 

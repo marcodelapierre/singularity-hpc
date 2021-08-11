@@ -3,7 +3,7 @@ layout: container
 name:  "ghcr.io/autamus/mercury"
 maintainer: "@vsoch"
 github: "https://github.com/singularityhub/singularity-hpc/blob/main/registry/ghcr.io/autamus/mercury/container.yaml"
-updated_at: "2021-07-09 05:17:27.007780"
+updated_at: "2021-08-11 01:40:39.698130"
 container_url: "https://github.com/orgs/autamus/packages/container/package/mercury"
 
 versions:
